@@ -139,7 +139,7 @@ enableEmoji = true
 
 [[menu.main]]
   name = "Contact"
-  url = "/form/"
+  url = "/information/"
   identifier = "fa fa-envelope-o"
   weight = 5
 
