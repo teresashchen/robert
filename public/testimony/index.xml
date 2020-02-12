@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testimony on Learing violin with Mr. Robert Lau</title>
+    <link>/testimony/</link>
+    <description>Recent content in Testimony on Learing violin with Mr. Robert Lau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/testimony/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr. S.Z.</title>
+      <link>/testimony/item1/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/testimony/item1/</guid>
+      <description>I have recevied traning from Mr. Lau since I was 16. I am 60 year-old now. It is never to late to start!</description>
+    </item>
+    
+    <item>
+      <title>Michelle W.</title>
+      <link>/testimony/item2/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/testimony/item2/</guid>
+      <description>He is definitely a fantastic teacher!Ｉhave had lots of violin teachers, and his teaching techniques and strategies have helped me improve the fastest. He makes learning violin enjoyable and wants to see you improve. Highly recommend.</description>
+    </item>
+    
+    <item>
+      <title>XXX</title>
+      <link>/testimony/item3/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/testimony/item3/</guid>
+      <description>App 3 </description>
+    </item>
+    
+    <item>
+      <title>YYY4</title>
+      <link>/testimony/item4/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/testimony/item4/</guid>
+      <description>App 4 </description>
+    </item>
+    
+  </channel>
+</rss>

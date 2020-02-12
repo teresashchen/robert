@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lau on Learing violin with Mr. Robert Lau</title>
+    <link>/categories/lau/</link>
+    <description>Recent content in Lau on Learing violin with Mr. Robert Lau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/lau/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mr. Lau&#39;s Teaching Philosophy | 柳老師的教學理念</title>
+      <link>/teaching/teachingstyle/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/teachingstyle/</guid>
+      <description>Introduction Mr. Lau&amp;rsquo;s teaching philosophy is grounded as HK style.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Demonstration | 教學示範</title>
+      <link>/teaching/hugoisforlovers/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/hugoisforlovers/</guid>
+      <description>Video 01: During Recital   Video 02: During performance   </description>
+    </item>
+    
+    <item>
+      <title>Mr. Lau&#39;s Interview | 柳老師專訪</title>
+      <link>/teaching/migrate-from-jekyll/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/migrate-from-jekyll/</guid>
+      <description>The below you can see Mr. Lau&amp;rsquo;s interview with Succeed magazine.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testimony on Learing violin with Mr. Robert Lau</title>
+    <link>/categories/testimony/</link>
+    <description>Recent content in Testimony on Learing violin with Mr. Robert Lau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/testimony/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr. Zhang</title>
+      <link>/testimony/item1/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/testimony/item1/</guid>
+      <description>I have recevied traning from Mr. Lau since I was 17. I am 60 year-old now. It is never to late to start!</description>
+    </item>
+    
+  </channel>
+</rss>
