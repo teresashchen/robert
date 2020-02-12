@@ -26,3 +26,4 @@ Mr. Lau is an experienced teacher with excellt credentials.
 ![certificate3](img/certificate3.jpg)
 ![certificate4](img/certificate4.jpg)
 ![certificate5](img/certificate5.jpg)
+![certificate6](img/certificate6.jpg)
