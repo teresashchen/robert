@@ -21,4 +21,8 @@ Mr. Lau is an experienced teacher with excellt credentials.
 ## Teaching 6-year-old to adults students in private lessons!
 
 
-
+![certificate](img/certificate.jpg)
+![certificate2](img/certificate2.jpg)
+![certificate3](img/certificate3.jpg)
+![certificate4](img/certificate4.jpg)
+![certificate5](img/certificate5.jpg)
