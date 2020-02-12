@@ -3,15 +3,15 @@ author:
 categories:
 - ""
 date: "2020-02-11"
-description: Write something here
+description: Phenomenal teacher!
 featured: ""
 featuredalt: ""
 featuredpath: ""
 format: ""
 link: '#'
 linktitle: ""
-title: XXX
+title: Jeffrey Z.
 type: itemized
 ---
 
-## App 3
+{{< youtube fTbqiM6EHIU >}}
