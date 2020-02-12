@@ -10,7 +10,7 @@ title: About Robert Lau
 Mr. Lau is an experienced teacher with excellt credentials.
 
 *  Over 40 years experience teaching violin and viola  
-*  Diploma holder of the *Brithish Royal School of Music*  
+*  Diploma holder of the *British Royal School of Music*  
 *  Former Board Director and Vice President of Southwestern Youth Musch Festival (1986-1996)  
 *  Member of American String Teachers Association and Music Teachers Association of California (since 1983)  
 *  Founder, President, Music Director and Conductor of the Community Youth Orchestra of Southern California (1989-2005)  
