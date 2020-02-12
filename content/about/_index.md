@@ -1,29 +1,19 @@
 ---
 date: "2014-04-09"
-title: About Hugo
+title: About Robert Lau
 ---
 
-Hugo is a static site engine written in Go.
+*Robert Lau* is a well-known Southern California violin teacher. He has moved to Portland, OR, and is offering lessons in the area.
 
+## Credentials
 
-It makes use of a variety of open source projects including:
+Mr. Lau is an experienced teacher with excellt credentials.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+*  Over 40 years experience teaching violin and viola  
+*  Diploma holder of the Brithish Royal School of Music  
+*  Former Board Director and Vice President of Southwestern Youth Musch Festival
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+Teaching 6-year-od to adults students in private lessons
 
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
 
 Thanks for reading!
