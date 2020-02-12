@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Learing violin with Mr. Robert Lau"
+title = "Learning violin with Mr. Robert Lau"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3

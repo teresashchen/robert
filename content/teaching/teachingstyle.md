@@ -3,7 +3,7 @@ author:
 categories:
 - Lau
 date: "2020-02-11"
-description: Let me introduce you HK style teaching philosophy
+description: Let me introduce you to HK style teaching philosophy
 featured: robert_pic01.jpg
 featuredalt: robert_pic01
 featuredpath: date
