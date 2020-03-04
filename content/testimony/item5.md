@@ -2,16 +2,16 @@
 author: 
 categories:
 - ""
-date: "2020-02-09"
-description: He is funny, hard-working and motivational!
+date: "2020-02-10"
+description: He tutors me so patiently!
 featured: ""
 featuredalt: ""
 featuredpath: ""
 format: ""
 link: '#'
 linktitle: ""
-title: Jessie C.
+title: James Z.
 type: itemized
 ---
 
-{{< youtube JRYMuBklawk >}}
+{{< youtube IOsZK-gHfvw >}}
